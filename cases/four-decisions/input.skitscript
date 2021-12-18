@@ -1,0 +1,73 @@
+~ Start ~
+
+  This is the first choice which will be forgotten.
+
+> A leads to Forgotten Choice A A.
+> B leads to Remembered Choice A.
+
+~ Forgotten Choice A A ~
+
+Set Selected A.
+
+~ Remembered Choice A ~
+
+  This is the first choice which will be remembered.
+
+> A leads to Remembered Choice A A.
+> B leads to Forgotten Choice B.
+
+~ Remembered Choice A A ~
+
+Set Selected B.
+
+~ Forgotten Choice A ~
+
+  This is the second choice which will be forgotten.
+
+> A leads to Forgotten Choice B A.
+> B leads to Remembered Choice B.
+
+~ Forgotten Choice B A ~
+
+Set Selected C.
+
+~ Remembered Choice B ~
+
+  This is the first choice which will be remembered.
+
+> A leads to Remembered Choice A A.
+> B leads to Results.
+
+~ Remembered Choice B A ~
+
+Set Selected D.
+
+~ Results ~
+
+Jump to A A when not Selected B or Selected D.
+
+Jump to B B when Selected B and Selected D.
+
+Jump to A B when Selected B.
+
+  You selected B then A in the remembered choices.
+
+Jump to Start.
+
+~ A A ~
+
+  You selected A both times in the remembered choices.
+
+Jump to Start.
+
+~ B B ~
+
+  You selected B both times in the remembered choices.
+
+Jump to Start.
+
+~ A B ~
+
+  You selected A then B in the remembered choices.
+
+Jump to Start.
