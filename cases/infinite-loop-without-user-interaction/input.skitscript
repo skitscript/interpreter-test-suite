@@ -1,0 +1,15 @@
+  This line precedes the infinite loop.
+
+~ Restart ~
+
+Jump to Second Loop when odd.
+
+Set odd.
+
+Jump to Restart.
+
+~ Second Loop ~
+
+Clear odd.
+
+Jump to Restart.

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This line precedes the infinite loop."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 2
+    }
+  },
+  2,
+  {
+    "type": "invalid",
+    "error": {
+      "type": "infiniteLoop"
+    }
+  }
+]

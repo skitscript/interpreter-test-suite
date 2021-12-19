@@ -1,0 +1,13 @@
+Jump to Second Loop when odd or unused.
+
+Set odd.
+
+Jump to EOF.
+
+~ Second Loop ~
+
+Clear odd.
+
+~ EOF ~
+
+Set unused.

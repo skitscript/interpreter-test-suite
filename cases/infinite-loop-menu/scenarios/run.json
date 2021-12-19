@@ -1,0 +1,139 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "A"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "B"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "C"
+            }
+          ],
+          "instructionIndex": 0
+        }
+      ]
+    }
+  },
+  0,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "A"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "B"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "C"
+            }
+          ],
+          "instructionIndex": 0
+        }
+      ]
+    }
+  },
+  0,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "A"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "B"
+            }
+          ],
+          "instructionIndex": 0
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "C"
+            }
+          ],
+          "instructionIndex": 0
+        }
+      ]
+    }
+  }
+]
