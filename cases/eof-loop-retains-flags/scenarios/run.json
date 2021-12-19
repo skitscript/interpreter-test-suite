@@ -1,0 +1,20 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This text is shown as the document loops with the flag set."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 2
+    }
+  }
+]
