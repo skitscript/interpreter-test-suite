@@ -1,0 +1,39 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This line is shown without a menu as all of the menu options have been eliminated."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 4
+    }
+  },
+  4,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This line is then shown."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 5
+    }
+  }
+]
