@@ -162,7 +162,7 @@
       ]
     }
   },
-  16,
+  18,
   {
     "type": "valid",
     "characters": [],
@@ -173,15 +173,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "plainText": "You selected B."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 17
+      "instructionIndex": 19
     }
   },
-  17,
+  19,
   {
     "type": "valid",
     "characters": [],

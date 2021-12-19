@@ -40,7 +40,7 @@
       ]
     }
   },
-  3,
+  5,
   {
     "type": "valid",
     "characters": [],
@@ -51,15 +51,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "plainText": "You selected B."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 4
+      "instructionIndex": 6
     }
   },
-  4,
+  6,
   {
     "type": "valid",
     "characters": [],
@@ -162,7 +162,7 @@
       ]
     }
   },
-  16,
+  18,
   {
     "type": "valid",
     "characters": [],
@@ -173,15 +173,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "plainText": "You selected B."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 17
+      "instructionIndex": 19
     }
   },
-  17,
+  19,
   {
     "type": "valid",
     "characters": [],
@@ -223,7 +223,7 @@
       ]
     }
   },
-  22,
+  25,
   {
     "type": "valid",
     "characters": [],
@@ -234,15 +234,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "plainText": "You selected B."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 24
+      "instructionIndex": 26
     }
   },
-  24,
+  26,
   {
     "type": "valid",
     "characters": [],
@@ -253,15 +253,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A both times in the remembered choices."
+        "plainText": "You selected A, then B, in the remembered choices."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 32
+      "instructionIndex": 36
     }
   },
-  32,
+  36,
   {
     "type": "valid",
     "characters": [],
