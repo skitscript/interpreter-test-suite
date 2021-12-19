@@ -1,0 +1,133 @@
+Jump to Fail when A.
+
+Jump to Fail when B.
+
+Jump to Fail when C.
+
+Jump to Fail when A, B or C.
+
+Jump to Fail when A, B and C.
+
+Jump to A when not A.
+Jump to Fail.
+~ A ~
+
+Jump to B when not B.
+Jump to Fail.
+~ B ~
+
+Jump to C when not C.
+Jump to Fail.
+~ C ~
+
+Jump to D when not A, B or C.
+Jump to Fail.
+~ D ~
+
+Jump to E when not A, B and C.
+Jump to Fail.
+~ E ~
+
+> A leads to Continue A when A.
+> B leads to Continue A when B.
+> C leads to Continue A when C.
+> D leads to Continue A when A, B or C.
+> E leads to Continue A when A, B and C.
+> F leads to Continue A when not A.
+> G leads to Continue A when not B.
+> H leads to Continue A when not C.
+> I leads to Continue A when not A, B or C.
+> J leads to Continue A when not A, B and C.
+
+~ Continue A ~
+
+Set B.
+
+Jump to Fail when A.
+
+Jump to F when B.
+Jump to Fail.
+~ F ~
+
+Jump to Fail when C.
+
+Jump to G when A, B or C.
+Jump to Fail.
+~ G ~
+
+Jump to Fail when A, B and C.
+
+Jump to H when not A.
+Jump to Fail.
+~ H ~
+
+Jump to Fail when not B.
+
+Jump to I when not C.
+Jump to Fail.
+~ I ~
+
+Jump to Fail when not A, B or C.
+
+Jump to J when not A, B and C.
+Jump to Fail.
+~ J ~
+
+> A leads to Continue B when A.
+> B leads to Continue B when B.
+> C leads to Continue B when C.
+> D leads to Continue B when A, B or C.
+> E leads to Continue B when A, B and C.
+> F leads to Continue B when not A.
+> G leads to Continue B when not B.
+> H leads to Continue B when not C.
+> I leads to Continue B when not A, B or C.
+> J leads to Continue B when not A, B and C.
+
+~ Continue B ~
+
+Set A and C.
+
+Jump to K when A.
+Jump to Fail.
+~ K ~
+
+Jump to L when B.
+Jump to Fail.
+~ L ~
+
+Jump to M when C.
+Jump to Fail.
+~ M ~
+
+Jump to N when A, B or C.
+Jump to Fail.
+~ N ~
+
+Jump to O when A, B and C.
+Jump to Fail.
+~ O ~
+
+Jump to Fail when not A.
+
+Jump to Fail when not B.
+
+Jump to Fail when not C.
+
+Jump to Fail when not A, B or C.
+
+Jump to Fail when not A, B and C.
+
+> A leads to Fail when A.
+> B leads to Fail when B.
+> C leads to Fail when C.
+> D leads to Fail when A, B or C.
+> E leads to Fail when A, B and C.
+> F leads to Fail when not A.
+> G leads to Fail when not B.
+> H leads to Fail when not C.
+> I leads to Fail when not A, B or C.
+> J leads to Fail when not A, B and C.
+
+~ Fail ~
+  This test has failed.

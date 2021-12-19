@@ -1,0 +1,205 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "F"
+            }
+          ],
+          "instructionIndex": 25
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "G"
+            }
+          ],
+          "instructionIndex": 25
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "H"
+            }
+          ],
+          "instructionIndex": 25
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "I"
+            }
+          ],
+          "instructionIndex": 25
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "J"
+            }
+          ],
+          "instructionIndex": 25
+        }
+      ]
+    }
+  },
+  25,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "B"
+            }
+          ],
+          "instructionIndex": 51
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "D"
+            }
+          ],
+          "instructionIndex": 51
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "F"
+            }
+          ],
+          "instructionIndex": 51
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "H"
+            }
+          ],
+          "instructionIndex": 51
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "J"
+            }
+          ],
+          "instructionIndex": 51
+        }
+      ]
+    }
+  },
+  51,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "A"
+            }
+          ],
+          "instructionIndex": 78
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "B"
+            }
+          ],
+          "instructionIndex": 78
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "C"
+            }
+          ],
+          "instructionIndex": 78
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "D"
+            }
+          ],
+          "instructionIndex": 78
+        },
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "E"
+            }
+          ],
+          "instructionIndex": 78
+        }
+      ]
+    }
+  }
+]
