@@ -1,0 +1,515 @@
+[
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "character": "entering-character",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-entering-animation"
+        }
+      },
+      {
+        "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "emoting-character",
+        "emote": "emoting",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything",
+        "emote": "everything-emote",
+        "state": {
+          "type": "entering",
+          "animation": "with-everything-entering-animation"
+        }
+      },
+      {
+        "character": "speaking-character-a",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-c",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything-three-times",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-carried-through-eof",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      }
+    ],
+    "speakers": [
+      "speaking-character-a",
+      "speaking-character-b",
+      "speaking-character-c"
+    ],
+    "background": "background-a",
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This is "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "code": false,
+        "plainText": "an"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": " example "
+      },
+      {
+        "bold": true,
+        "italic": false,
+        "code": false,
+        "plainText": "line"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": " with "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": true,
+        "plainText": "some formatting"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 8
+    }
+  },
+  8,
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "character": "entering-character",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "emoting-character",
+        "emote": "emoting",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything",
+        "emote": "alternative-emote",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "speaking-character-a",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-c",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything-three-times",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-carried-through-eof",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      }
+    ],
+    "speakers": [
+      "character-which-does-everything"
+    ],
+    "background": "background-a",
+    "line": [
+      {
+        "bold": true,
+        "italic": true,
+        "code": true,
+        "plainText": "Formatting combination test"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 11
+    }
+  },
+  11,
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "character": "entering-character",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "emoting-character",
+        "emote": "emoting",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything",
+        "emote": "alternative-emote",
+        "state": {
+          "type": "exiting",
+          "animation": "with-everything-exiting-animation"
+        }
+      },
+      {
+        "character": "speaking-character-a",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-c",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything-three-times",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "animation-c"
+        }
+      },
+      {
+        "character": "character-carried-through-eof",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      }
+    ],
+    "speakers": [
+      "character-which-does-everything"
+    ],
+    "background": "background-c",
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "Can still give a line while exiting."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 18
+    }
+  },
+  18,
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "character": "entering-character",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "emoting-character",
+        "emote": "emoting",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything",
+        "emote": "alternative-emote",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-a",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-c",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything-three-times",
+        "emote": "neutral",
+        "state": {
+          "type": "exiting",
+          "animation": "animation-f"
+        }
+      },
+      {
+        "character": "character-carried-through-eof",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      }
+    ],
+    "speakers": [
+      "character-which-does-everything"
+    ],
+    "background": "background-c",
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "Is then gone."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 22
+    }
+  },
+  22,
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "character": "entering-character",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "emoting-character",
+        "emote": "emoting",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything",
+        "emote": "everything-emote",
+        "state": {
+          "type": "entering",
+          "animation": "with-everything-entering-animation"
+        }
+      },
+      {
+        "character": "speaking-character-a",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "speaking-character-c",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-which-does-everything-three-times",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "character-carried-through-eof",
+        "emote": "emoting",
+        "state": {
+          "type": "entering",
+          "animation": "from-left"
+        }
+      }
+    ],
+    "speakers": [
+      "speaking-character-a",
+      "speaking-character-b",
+      "speaking-character-c"
+    ],
+    "background": "background-a",
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This is "
+      },
+      {
+        "bold": false,
+        "italic": true,
+        "code": false,
+        "plainText": "an"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": " example "
+      },
+      {
+        "bold": true,
+        "italic": false,
+        "code": false,
+        "plainText": "line"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": " with "
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": true,
+        "plainText": "some formatting"
+      },
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 8
+    }
+  }
+]

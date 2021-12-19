@@ -1,0 +1,34 @@
+Entering character enters with entering animation.
+
+Exiting character exits with exiting animation.
+
+Emoting character is emoting.
+
+Character which does everything enters with everything entering animation, everything emote.
+
+Location: Background A.
+
+Speaking character A, speaking character B and speaking character C:
+  This is *an* example **line** with `some formatting`.
+
+Character which does everything (alternative emote):
+  ***`Formatting combination test`***.
+
+Character which does everything exits with everything exiting animation.
+
+Character which does everything three times enters animation A.
+Character which does everything three times exits animation B.
+Character which does everything three times enters animation C.
+
+Location: Background B.
+Location: Background C.
+
+  Can still give a line while exiting.
+
+Character which does everything three times exits animation D.
+Character which does everything three times enters animation E.
+Character which does everything three times exits animation F.
+
+  Is then gone.
+
+Character carried through EOF enters from left, emoting.
