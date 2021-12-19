@@ -3,54 +3,82 @@
   This is the first choice which will be forgotten.
 
 > A leads to Forgotten Choice A A.
-> B leads to Remembered Choice A.
+> B leads to Forgotten Choice A B.
 
 ~ Forgotten Choice A A ~
 
-Set Selected A.
+  You selected A.
+
+Jump to Remembered Choice A.
+
+~ Forgotten Choice A B ~
+
+  You selected B.
 
 ~ Remembered Choice A ~
 
   This is the first choice which will be remembered.
 
 > A leads to Remembered Choice A A.
-> B leads to Forgotten Choice B.
+> B leads to Remembered Choice A B.
 
 ~ Remembered Choice A A ~
 
-Set Selected B.
+Set Selected A in first remembered choice.
 
-~ Forgotten Choice A ~
+  You selected A.
+
+Jump to Forgotten Choice B.
+
+~ Remembered Choice A B ~
+
+  You selected B.
+
+~ Forgotten Choice B ~
 
   This is the second choice which will be forgotten.
 
 > A leads to Forgotten Choice B A.
-> B leads to Remembered Choice B.
+> B leads to Forgotten Choice B B.
 
 ~ Forgotten Choice B A ~
 
-Set Selected C.
+  You selected A.
+
+Jump to Remembered Choice B.
+
+~ Forgotten Choice B B ~
+
+  You selected B.
 
 ~ Remembered Choice B ~
 
-  This is the first choice which will be remembered.
+  This is the second choice which will be remembered.
 
-> A leads to Remembered Choice A A.
-> B leads to Results.
+> A leads to Remembered Choice B A.
+> B leads to Remembered Choice B B.
 
 ~ Remembered Choice B A ~
 
-Set Selected D.
+Set Selected A in second remembered choice.
+
+  You selected A.
+
+Jump to Results.
+
+~ Remembered Choice B B ~
+
+  You selected B.
 
 ~ Results ~
 
-Jump to A A when not Selected B or Selected D.
+Jump to A A when Selected A in first remembered choice and Selected A in second remembered choice.
 
-Jump to B B when Selected B and Selected D.
+Jump to B B when not Selected A in first remembered choice or Selected A in second remembered choice.
 
-Jump to A B when Selected B.
+Jump to A B when Selected A in first remembered choice.
 
-  You selected B then A in the remembered choices.
+  You selected B, then A, in the remembered choices.
 
 Jump to Start.
 
@@ -68,6 +96,6 @@ Jump to Start.
 
 ~ A B ~
 
-  You selected A then B in the remembered choices.
+  You selected A, then B, in the remembered choices.
 
 Jump to Start.

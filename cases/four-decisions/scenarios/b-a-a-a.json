@@ -40,7 +40,7 @@
       ]
     }
   },
-  3,
+  5,
   {
     "type": "valid",
     "characters": [],
@@ -51,15 +51,15 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "plainText": "You selected B."
       }
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 4
+      "instructionIndex": 6
     }
   },
-  4,
+  6,
   {
     "type": "valid",
     "characters": [],
