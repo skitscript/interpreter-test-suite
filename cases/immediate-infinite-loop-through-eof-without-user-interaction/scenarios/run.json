@@ -1,0 +1,8 @@
+[
+  {
+    "type": "invalid",
+    "error": {
+      "type": "infiniteLoop"
+    }
+  }
+]
