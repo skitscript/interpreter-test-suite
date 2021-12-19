@@ -1,0 +1,20 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This line is shown immediately as all of the menu options have been eliminated."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 4
+    }
+  }
+]
