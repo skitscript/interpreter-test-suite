@@ -44,4 +44,4 @@ response.
 
 These prompts are similar to
 [InterpreterState](https://github.com/skitscript/types-nodejs/blob/master/InterpreterState/index.ts),
-excepting elements which are stateful such as flags.
+excepting elements which are invisible to the user such as flags.
