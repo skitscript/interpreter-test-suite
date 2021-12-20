@@ -43,5 +43,5 @@ a scenario, intercalated with the statement indices selected by the user in
 response.
 
 These prompts are similar to
-[InterpreterState](https://github.com/skitscript/types-nodejs/blob/master/InterpreterState/index.ts),
+[ValidInterpreterState](https://github.com/skitscript/types-nodejs/blob/master/ValidInterpreterState/index.ts),
 excepting elements which are invisible to the user such as flags.
