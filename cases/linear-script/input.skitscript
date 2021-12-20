@@ -2,6 +2,11 @@ Entering character enters with entering animation.
 
 Exiting character exits with exiting animation.
 
+Animated after exiting A enters with an animation.
+Animated after exiting B enters with an animation.
+Animated after entering A enters with an animation.
+Animated after entering B enters with an animation.
+
 Emoting character is emoting.
 
 Character which does everything enters with everything entering animation, everything emote.
@@ -11,8 +16,16 @@ Location: Background A.
 Speaking character A, speaking character B and speaking character C:
   This is *an* example **line** with `some formatting`.
 
+Animated after exiting A exits with another animation.
+Animated after exiting B exits with another animation.
+Animated after entering A enters with a hidden animation.
+Animated after entering B exits with a return animation.
+
 Character which does everything (alternative emote):
   ***`Formatting combination test`***.
+
+Animated after exiting A enters with a return animation.
+Animated after exiting B exits with a hidden animation.
 
 Character which does everything exits with everything exiting animation.
 
