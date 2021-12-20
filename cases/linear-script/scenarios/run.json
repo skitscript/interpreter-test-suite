@@ -18,6 +18,38 @@
         }
       },
       {
+        "character": "animated-after-exiting-a",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
+        }
+      },
+      {
+        "character": "animated-after-exiting-b",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
+        }
+      },
+      {
+        "character": "animated-after-entering-a",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
+        }
+      },
+      {
+        "character": "animated-after-entering-b",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
+        }
+      },
+      {
         "character": "emoting-character",
         "emote": "emoting",
         "state": {
@@ -120,10 +152,10 @@
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 8
+      "instructionIndex": 12
     }
   },
-  8,
+  12,
   {
     "type": "valid",
     "characters": [
@@ -139,6 +171,37 @@
         "emote": "neutral",
         "state": {
           "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-exiting-a",
+        "emote": "neutral",
+        "state": {
+          "type": "exiting",
+          "animation": "with-another-animation"
+        }
+      },
+      {
+        "character": "animated-after-exiting-b",
+        "emote": "neutral",
+        "state": {
+          "type": "exiting",
+          "animation": "with-another-animation"
+        }
+      },
+      {
+        "character": "animated-after-entering-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-entering-b",
+        "emote": "neutral",
+        "state": {
+          "type": "exiting",
+          "animation": "with-a-return-animation"
         }
       },
       {
@@ -211,10 +274,10 @@
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 11
+      "instructionIndex": 19
     }
   },
-  11,
+  19,
   {
     "type": "valid",
     "characters": [
@@ -227,6 +290,35 @@
       },
       {
         "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-exiting-a",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-a-return-animation"
+        }
+      },
+      {
+        "character": "animated-after-exiting-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-entering-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-entering-b",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -298,10 +390,10 @@
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 18
+      "instructionIndex": 28
     }
   },
-  18,
+  28,
   {
     "type": "valid",
     "characters": [
@@ -314,6 +406,34 @@
       },
       {
         "character": "exiting-character",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-exiting-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-exiting-b",
+        "emote": "neutral",
+        "state": {
+          "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-entering-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-entering-b",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -384,10 +504,10 @@
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 22
+      "instructionIndex": 32
     }
   },
-  22,
+  32,
   {
     "type": "valid",
     "characters": [
@@ -403,6 +523,36 @@
         "emote": "neutral",
         "state": {
           "type": "notPresent"
+        }
+      },
+      {
+        "character": "animated-after-exiting-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-exiting-b",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
+        }
+      },
+      {
+        "character": "animated-after-entering-a",
+        "emote": "neutral",
+        "state": {
+          "type": "present"
+        }
+      },
+      {
+        "character": "animated-after-entering-b",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "with-an-animation"
         }
       },
       {
@@ -509,7 +659,7 @@
     ],
     "interaction": {
       "type": "dismiss",
-      "instructionIndex": 8
+      "instructionIndex": 12
     }
   }
 ]
