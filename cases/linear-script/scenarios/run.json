@@ -3,7 +3,8 @@
     "type": "valid",
     "characters": [
       {
-        "character": "entering-character",
+        "normalized": "entering-character",
+        "verbatim": "Entering character",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -11,14 +12,16 @@
         }
       },
       {
-        "character": "exiting-character",
+        "normalized": "exiting-character",
+        "verbatim": "Exiting character",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-exiting-a",
+        "normalized": "animated-after-exiting-a",
+        "verbatim": "Animated after exiting A",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -26,7 +29,8 @@
         }
       },
       {
-        "character": "animated-after-exiting-b",
+        "normalized": "animated-after-exiting-b",
+        "verbatim": "Animated after exiting B",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -34,7 +38,8 @@
         }
       },
       {
-        "character": "animated-after-entering-a",
+        "normalized": "animated-after-entering-a",
+        "verbatim": "Animated after entering A",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -42,7 +47,8 @@
         }
       },
       {
-        "character": "animated-after-entering-b",
+        "normalized": "animated-after-entering-b",
+        "verbatim": "Animated after entering B",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -50,14 +56,16 @@
         }
       },
       {
-        "character": "emoting-character",
+        "normalized": "emoting-character",
+        "verbatim": "Emoting character",
         "emote": "emoting",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything",
+        "normalized": "character-which-does-everything",
+        "verbatim": "Character which does everything",
         "emote": "everything-emote",
         "state": {
           "type": "entering",
@@ -65,35 +73,40 @@
         }
       },
       {
-        "character": "speaking-character-a",
+        "normalized": "speaking-character-a",
+        "verbatim": "Speaking character A",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-b",
+        "normalized": "speaking-character-b",
+        "verbatim": "speaking character B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-c",
+        "normalized": "speaking-character-c",
+        "verbatim": "speaking character C",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything-three-times",
+        "normalized": "character-which-does-everything-three-times",
+        "verbatim": "Character which does everything three times",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-carried-through-eof",
+        "normalized": "character-carried-through-eof",
+        "verbatim": "Character carried through EOF",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -160,21 +173,24 @@
     "type": "valid",
     "characters": [
       {
-        "character": "entering-character",
+        "normalized": "entering-character",
+        "verbatim": "Entering character",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "exiting-character",
+        "normalized": "exiting-character",
+        "verbatim": "Exiting character",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-exiting-a",
+        "normalized": "animated-after-exiting-a",
+        "verbatim": "Animated after exiting A",
         "emote": "neutral",
         "state": {
           "type": "exiting",
@@ -182,7 +198,8 @@
         }
       },
       {
-        "character": "animated-after-exiting-b",
+        "normalized": "animated-after-exiting-b",
+        "verbatim": "Animated after exiting B",
         "emote": "neutral",
         "state": {
           "type": "exiting",
@@ -190,14 +207,16 @@
         }
       },
       {
-        "character": "animated-after-entering-a",
+        "normalized": "animated-after-entering-a",
+        "verbatim": "Animated after entering A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-entering-b",
+        "normalized": "animated-after-entering-b",
+        "verbatim": "Animated after entering B",
         "emote": "neutral",
         "state": {
           "type": "exiting",
@@ -205,49 +224,56 @@
         }
       },
       {
-        "character": "emoting-character",
+        "normalized": "emoting-character",
+        "verbatim": "Emoting character",
         "emote": "emoting",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything",
+        "normalized": "character-which-does-everything",
+        "verbatim": "Character which does everything",
         "emote": "alternative-emote",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "speaking-character-a",
+        "normalized": "speaking-character-a",
+        "verbatim": "Speaking character A",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-b",
+        "normalized": "speaking-character-b",
+        "verbatim": "speaking character B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-c",
+        "normalized": "speaking-character-c",
+        "verbatim": "speaking character C",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything-three-times",
+        "normalized": "character-which-does-everything-three-times",
+        "verbatim": "Character which does everything three times",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-carried-through-eof",
+        "normalized": "character-carried-through-eof",
+        "verbatim": "Character carried through EOF",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -282,21 +308,24 @@
     "type": "valid",
     "characters": [
       {
-        "character": "entering-character",
+        "normalized": "entering-character",
+        "verbatim": "Entering character",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "exiting-character",
+        "normalized": "exiting-character",
+        "verbatim": "Exiting character",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-exiting-a",
+        "normalized": "animated-after-exiting-a",
+        "verbatim": "Animated after exiting A",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -304,35 +333,40 @@
         }
       },
       {
-        "character": "animated-after-exiting-b",
+        "normalized": "animated-after-exiting-b",
+        "verbatim": "Animated after exiting B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-entering-a",
+        "normalized": "animated-after-entering-a",
+        "verbatim": "Animated after entering A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-entering-b",
+        "normalized": "animated-after-entering-b",
+        "verbatim": "Animated after entering B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "emoting-character",
+        "normalized": "emoting-character",
+        "verbatim": "Emoting character",
         "emote": "emoting",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything",
+        "normalized": "character-which-does-everything",
+        "verbatim": "Character which does everything",
         "emote": "alternative-emote",
         "state": {
           "type": "exiting",
@@ -340,28 +374,32 @@
         }
       },
       {
-        "character": "speaking-character-a",
+        "normalized": "speaking-character-a",
+        "verbatim": "Speaking character A",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-b",
+        "normalized": "speaking-character-b",
+        "verbatim": "speaking character B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-c",
+        "normalized": "speaking-character-c",
+        "verbatim": "speaking character C",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything-three-times",
+        "normalized": "character-which-does-everything-three-times",
+        "verbatim": "Character which does everything three times",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -369,7 +407,8 @@
         }
       },
       {
-        "character": "character-carried-through-eof",
+        "normalized": "character-carried-through-eof",
+        "verbatim": "Character carried through EOF",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -398,84 +437,96 @@
     "type": "valid",
     "characters": [
       {
-        "character": "entering-character",
+        "normalized": "entering-character",
+        "verbatim": "Entering character",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "exiting-character",
+        "normalized": "exiting-character",
+        "verbatim": "Exiting character",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-exiting-a",
+        "normalized": "animated-after-exiting-a",
+        "verbatim": "Animated after exiting A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-exiting-b",
+        "normalized": "animated-after-exiting-b",
+        "verbatim": "Animated after exiting B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-entering-a",
+        "normalized": "animated-after-entering-a",
+        "verbatim": "Animated after entering A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-entering-b",
+        "normalized": "animated-after-entering-b",
+        "verbatim": "Animated after entering B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "emoting-character",
+        "normalized": "emoting-character",
+        "verbatim": "Emoting character",
         "emote": "emoting",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything",
+        "normalized": "character-which-does-everything",
+        "verbatim": "Character which does everything",
         "emote": "alternative-emote",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-a",
+        "normalized": "speaking-character-a",
+        "verbatim": "Speaking character A",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-b",
+        "normalized": "speaking-character-b",
+        "verbatim": "speaking character B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-c",
+        "normalized": "speaking-character-c",
+        "verbatim": "speaking character C",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything-three-times",
+        "normalized": "character-which-does-everything-three-times",
+        "verbatim": "Character which does everything three times",
         "emote": "neutral",
         "state": {
           "type": "exiting",
@@ -483,7 +534,8 @@
         }
       },
       {
-        "character": "character-carried-through-eof",
+        "normalized": "character-carried-through-eof",
+        "verbatim": "Character carried through EOF",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
@@ -512,28 +564,32 @@
     "type": "valid",
     "characters": [
       {
-        "character": "entering-character",
+        "normalized": "entering-character",
+        "verbatim": "Entering character",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "exiting-character",
+        "normalized": "exiting-character",
+        "verbatim": "Exiting character",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "animated-after-exiting-a",
+        "normalized": "animated-after-exiting-a",
+        "verbatim": "Animated after exiting A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-exiting-b",
+        "normalized": "animated-after-exiting-b",
+        "verbatim": "Animated after exiting B",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -541,14 +597,16 @@
         }
       },
       {
-        "character": "animated-after-entering-a",
+        "normalized": "animated-after-entering-a",
+        "verbatim": "Animated after entering A",
         "emote": "neutral",
         "state": {
           "type": "present"
         }
       },
       {
-        "character": "animated-after-entering-b",
+        "normalized": "animated-after-entering-b",
+        "verbatim": "Animated after entering B",
         "emote": "neutral",
         "state": {
           "type": "entering",
@@ -556,14 +614,16 @@
         }
       },
       {
-        "character": "emoting-character",
+        "normalized": "emoting-character",
+        "verbatim": "Emoting character",
         "emote": "emoting",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything",
+        "normalized": "character-which-does-everything",
+        "verbatim": "Character which does everything",
         "emote": "everything-emote",
         "state": {
           "type": "entering",
@@ -571,35 +631,40 @@
         }
       },
       {
-        "character": "speaking-character-a",
+        "normalized": "speaking-character-a",
+        "verbatim": "Speaking character A",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-b",
+        "normalized": "speaking-character-b",
+        "verbatim": "speaking character B",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "speaking-character-c",
+        "normalized": "speaking-character-c",
+        "verbatim": "speaking character C",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-which-does-everything-three-times",
+        "normalized": "character-which-does-everything-three-times",
+        "verbatim": "Character which does everything three times",
         "emote": "neutral",
         "state": {
           "type": "notPresent"
         }
       },
       {
-        "character": "character-carried-through-eof",
+        "normalized": "character-carried-through-eof",
+        "verbatim": "Character carried through EOF",
         "emote": "emoting",
         "state": {
           "type": "entering",
