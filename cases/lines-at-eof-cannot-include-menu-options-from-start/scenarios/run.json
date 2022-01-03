@@ -1,0 +1,82 @@
+[
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "This is a menu option from the start"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  0,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This is a line from the end."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss"
+    }
+  },
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": null,
+    "interaction": {
+      "type": "menu",
+      "options": [
+        {
+          "content": [
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "plainText": "This is a menu option from the start"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  0,
+  {
+    "type": "valid",
+    "characters": [],
+    "speakers": [],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "plainText": "This is a line from the end."
+      }
+    ],
+    "interaction": {
+      "type": "dismiss"
+    }
+  }
+]
