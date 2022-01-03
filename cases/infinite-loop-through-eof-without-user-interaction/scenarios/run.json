@@ -13,11 +13,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 2
+      "type": "dismiss"
     }
   },
-  2,
   {
     "type": "invalid",
     "error": {

@@ -16,8 +16,7 @@
               "code": false,
               "plainText": "F"
             }
-          ],
-          "instructionIndex": 25
+          ]
         },
         {
           "content": [
@@ -27,8 +26,7 @@
               "code": false,
               "plainText": "G"
             }
-          ],
-          "instructionIndex": 25
+          ]
         },
         {
           "content": [
@@ -38,8 +36,7 @@
               "code": false,
               "plainText": "H"
             }
-          ],
-          "instructionIndex": 25
+          ]
         },
         {
           "content": [
@@ -49,8 +46,7 @@
               "code": false,
               "plainText": "I"
             }
-          ],
-          "instructionIndex": 25
+          ]
         },
         {
           "content": [
@@ -60,13 +56,12 @@
               "code": false,
               "plainText": "J"
             }
-          ],
-          "instructionIndex": 25
+          ]
         }
       ]
     }
   },
-  25,
+  0,
   {
     "type": "valid",
     "characters": [],
@@ -84,8 +79,7 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 51
+          ]
         },
         {
           "content": [
@@ -95,8 +89,7 @@
               "code": false,
               "plainText": "D"
             }
-          ],
-          "instructionIndex": 51
+          ]
         },
         {
           "content": [
@@ -106,8 +99,7 @@
               "code": false,
               "plainText": "F"
             }
-          ],
-          "instructionIndex": 51
+          ]
         },
         {
           "content": [
@@ -117,8 +109,7 @@
               "code": false,
               "plainText": "H"
             }
-          ],
-          "instructionIndex": 51
+          ]
         },
         {
           "content": [
@@ -128,13 +119,12 @@
               "code": false,
               "plainText": "J"
             }
-          ],
-          "instructionIndex": 51
+          ]
         }
       ]
     }
   },
-  51,
+  4,
   {
     "type": "valid",
     "characters": [],
@@ -152,8 +142,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 78
+          ]
         },
         {
           "content": [
@@ -163,8 +152,7 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 78
+          ]
         },
         {
           "content": [
@@ -174,8 +162,7 @@
               "code": false,
               "plainText": "C"
             }
-          ],
-          "instructionIndex": 78
+          ]
         },
         {
           "content": [
@@ -185,8 +172,7 @@
               "code": false,
               "plainText": "D"
             }
-          ],
-          "instructionIndex": 78
+          ]
         },
         {
           "content": [
@@ -196,8 +182,7 @@
               "code": false,
               "plainText": "E"
             }
-          ],
-          "instructionIndex": 78
+          ]
         }
       ]
     }

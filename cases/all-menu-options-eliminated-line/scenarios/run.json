@@ -13,11 +13,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 4
+      "type": "dismiss"
     }
   },
-  4,
   {
     "type": "valid",
     "characters": [],
@@ -32,8 +30,7 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 5
+      "type": "dismiss"
     }
   }
 ]
