@@ -13,8 +13,7 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 4
+      "type": "dismiss"
     }
   }
 ]

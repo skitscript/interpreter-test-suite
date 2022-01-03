@@ -164,11 +164,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 12
+      "type": "dismiss"
     }
   },
-  12,
   {
     "type": "valid",
     "characters": [
@@ -299,11 +297,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 19
+      "type": "dismiss"
     }
   },
-  19,
   {
     "type": "valid",
     "characters": [
@@ -428,11 +424,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 28
+      "type": "dismiss"
     }
   },
-  28,
   {
     "type": "valid",
     "characters": [
@@ -555,11 +549,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 32
+      "type": "dismiss"
     }
   },
-  32,
   {
     "type": "valid",
     "characters": [
@@ -723,8 +715,7 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 12
+      "type": "dismiss"
     }
   }
 ]

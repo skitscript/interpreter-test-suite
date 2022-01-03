@@ -23,8 +23,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 3
+          ]
         },
         {
           "content": [
@@ -34,13 +33,12 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 5
+          ]
         }
       ]
     }
   },
-  3,
+  0,
   {
     "type": "valid",
     "characters": [],
@@ -55,11 +53,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 4
+      "type": "dismiss"
     }
   },
-  4,
   {
     "type": "valid",
     "characters": [],
@@ -84,8 +80,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 9
+          ]
         },
         {
           "content": [
@@ -95,13 +90,12 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 12
+          ]
         }
       ]
     }
   },
-  9,
+  0,
   {
     "type": "valid",
     "characters": [],
@@ -116,11 +110,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 11
+      "type": "dismiss"
     }
   },
-  11,
   {
     "type": "valid",
     "characters": [],
@@ -145,8 +137,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 16
+          ]
         },
         {
           "content": [
@@ -156,13 +147,12 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 18
+          ]
         }
       ]
     }
   },
-  18,
+  1,
   {
     "type": "valid",
     "characters": [],
@@ -177,11 +167,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 19
+      "type": "dismiss"
     }
   },
-  19,
   {
     "type": "valid",
     "characters": [],
@@ -206,8 +194,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 22
+          ]
         },
         {
           "content": [
@@ -217,13 +204,12 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 25
+          ]
         }
       ]
     }
   },
-  25,
+  1,
   {
     "type": "valid",
     "characters": [],
@@ -238,11 +224,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 26
+      "type": "dismiss"
     }
   },
-  26,
   {
     "type": "valid",
     "characters": [],
@@ -257,11 +241,9 @@
       }
     ],
     "interaction": {
-      "type": "dismiss",
-      "instructionIndex": 36
+      "type": "dismiss"
     }
   },
-  36,
   {
     "type": "valid",
     "characters": [],
@@ -286,8 +268,7 @@
               "code": false,
               "plainText": "A"
             }
-          ],
-          "instructionIndex": 3
+          ]
         },
         {
           "content": [
@@ -297,8 +278,7 @@
               "code": false,
               "plainText": "B"
             }
-          ],
-          "instructionIndex": 5
+          ]
         }
       ]
     }
