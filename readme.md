@@ -1,4 +1,4 @@
-# Skitscript Interpreter Test Suite [![Continuous Integration](https://github.com/skitscript/interpreter-test-suite/workflows/Continuous%20Integration/badge.svg)](https://github.com/skitscript/interpreter-test-suite/actions) [![License](https://img.shields.io/github/license/skitscript/interpreter-test-suite.svg)](https://github.com/skitscript/interpreter-test-suite/blob/main/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# Skitscript Interpreter Test Suite [![License](https://img.shields.io/github/license/skitscript/interpreter-test-suite.svg)](https://github.com/skitscript/interpreter-test-suite/blob/main/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 A test suite for interpreters of Skitscript documents.
 
