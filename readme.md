@@ -1,4 +1,4 @@
-# Skitscript Interpreter Test Suite [![Continuous Integration](https://github.com/skitscript/interpreter-test-suite/workflows/Continuous%20Integration/badge.svg)](https://github.com/skitscript/interpreter-test-suite/actions) [![License](https://img.shields.io/github/license/skitscript/interpreter-test-suite.svg)](https://github.com/skitscript/interpreter-test-suite/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# Skitscript Interpreter Test Suite [![Continuous Integration](https://github.com/skitscript/interpreter-test-suite/workflows/Continuous%20Integration/badge.svg)](https://github.com/skitscript/interpreter-test-suite/actions) [![License](https://img.shields.io/github/license/skitscript/interpreter-test-suite.svg)](https://github.com/skitscript/interpreter-test-suite/blob/main/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 A test suite for interpreters of Skitscript documents.
 
@@ -43,5 +43,5 @@ a scenario, intercalated with the statement indices selected by the user in
 response.
 
 These prompts are similar to
-[ValidInterpreterState](https://github.com/skitscript/types-nodejs/blob/master/ValidInterpreterState/index.ts),
+[ValidInterpreterState](https://github.com/skitscript/types-nodejs/blob/main/ValidInterpreterState/index.ts),
 excepting elements which are invisible to the user such as flags.
