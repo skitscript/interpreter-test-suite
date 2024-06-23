@@ -9,12 +9,18 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This line is shown without a menu as all of the menu options have been eliminated."
+        "verbatim": "This line is shown without a menu as all of the menu options have been eliminated.",
+        "plainText": "This line is shown without a menu as all of the menu options have been eliminated.",
+        "fromColumn": 3,
+        "toColumn": 84
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 4
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -26,11 +32,17 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This line is then shown."
+        "verbatim": "This line is then shown.",
+        "plainText": "This line is then shown.",
+        "fromColumn": 3,
+        "toColumn": 26
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 6
+    },
+    "flagsSet": [],
+    "warnings": []
   }
 ]

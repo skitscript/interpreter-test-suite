@@ -9,11 +9,17 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This line is shown immediately as all of the menu options have been eliminated."
+        "verbatim": "This line is shown immediately as all of the menu options have been eliminated.",
+        "plainText": "This line is shown immediately as all of the menu options have been eliminated.",
+        "fromColumn": 3,
+        "toColumn": 81
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 5
+    },
+    "flagsSet": [],
+    "warnings": []
   }
 ]

@@ -14,9 +14,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -24,9 +28,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -34,12 +42,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "C"
+              "verbatim": "C",
+              "plainText": "C",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -57,9 +71,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -67,9 +85,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -77,12 +99,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "C"
+              "verbatim": "C",
+              "plainText": "C",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -100,9 +128,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -110,9 +142,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         },
         {
           "content": [
@@ -120,11 +156,17 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "C"
+              "verbatim": "C",
+              "plainText": "C",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 0
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   }
 ]

@@ -43,5 +43,4 @@ a scenario, intercalated with the statement indices selected by the user in
 response.
 
 These prompts are similar to
-[ValidInterpreterState](https://github.com/skitscript/types-nodejs/blob/main/ValidInterpreterState/index.ts),
-excepting elements which are invisible to the user such as flags.
+[ValidState](https://github.com/skitscript/interpreter-nodejs/blob/main/ValidState/index.ts).

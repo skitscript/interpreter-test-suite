@@ -14,12 +14,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "This is a menu option from the start"
+              "verbatim": "This is a menu option from the start",
+              "plainText": "This is a menu option from the start",
+              "fromColumn": 3,
+              "toColumn": 38
             }
-          ]
+          ],
+          "instructionIndex": 1
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -37,12 +43,63 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "This is a menu option from the end"
+              "verbatim": "This is a *",
+              "plainText": "This is a ",
+              "fromColumn": 3,
+              "toColumn": 13
+            },
+            {
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "verbatim": "menu `",
+              "plainText": "menu ",
+              "fromColumn": 14,
+              "toColumn": 19
+            },
+            {
+              "bold": false,
+              "italic": true,
+              "code": true,
+              "verbatim": "option`*",
+              "plainText": "option",
+              "fromColumn": 20,
+              "toColumn": 27
+            },
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "verbatim": " from **",
+              "plainText": " from ",
+              "fromColumn": 28,
+              "toColumn": 35
+            },
+            {
+              "bold": true,
+              "italic": false,
+              "code": false,
+              "verbatim": "the**",
+              "plainText": "the",
+              "fromColumn": 36,
+              "toColumn": 40
+            },
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "verbatim": " end",
+              "plainText": " end",
+              "fromColumn": 41,
+              "toColumn": 44
             }
-          ]
+          ],
+          "instructionIndex": 1
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -60,11 +117,62 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "This is a menu option from the end"
+              "verbatim": "This is a *",
+              "plainText": "This is a ",
+              "fromColumn": 3,
+              "toColumn": 13
+            },
+            {
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "verbatim": "menu `",
+              "plainText": "menu ",
+              "fromColumn": 14,
+              "toColumn": 19
+            },
+            {
+              "bold": false,
+              "italic": true,
+              "code": true,
+              "verbatim": "option`*",
+              "plainText": "option",
+              "fromColumn": 20,
+              "toColumn": 27
+            },
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "verbatim": " from **",
+              "plainText": " from ",
+              "fromColumn": 28,
+              "toColumn": 35
+            },
+            {
+              "bold": true,
+              "italic": false,
+              "code": false,
+              "verbatim": "the**",
+              "plainText": "the",
+              "fromColumn": 36,
+              "toColumn": 40
+            },
+            {
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "verbatim": " end",
+              "plainText": " end",
+              "fromColumn": 41,
+              "toColumn": 44
             }
-          ]
+          ],
+          "instructionIndex": 1
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   }
 ]

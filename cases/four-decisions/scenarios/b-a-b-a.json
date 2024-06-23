@@ -9,7 +9,10 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is the first choice which will be forgotten."
+        "verbatim": "This is the first choice which will be forgotten.",
+        "plainText": "This is the first choice which will be forgotten.",
+        "fromColumn": 3,
+        "toColumn": 51
       }
     ],
     "interaction": {
@@ -21,9 +24,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 4
         },
         {
           "content": [
@@ -31,12 +38,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 7
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   1,
   {
@@ -49,12 +62,18 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected B."
+        "verbatim": "You selected B.",
+        "plainText": "You selected B.",
+        "fromColumn": 3,
+        "toColumn": 17
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 9
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -66,7 +85,10 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is the first choice which will be remembered."
+        "verbatim": "This is the first choice which will be remembered.",
+        "plainText": "This is the first choice which will be remembered.",
+        "fromColumn": 3,
+        "toColumn": 52
       }
     ],
     "interaction": {
@@ -78,9 +100,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 13
         },
         {
           "content": [
@@ -88,12 +114,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 17
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -106,12 +138,20 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "verbatim": "You selected A.",
+        "plainText": "You selected A.",
+        "fromColumn": 3,
+        "toColumn": 17
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 16
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice"
+    ],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -123,7 +163,10 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is the second choice which will be forgotten."
+        "verbatim": "This is the second choice which will be forgotten.",
+        "plainText": "This is the second choice which will be forgotten.",
+        "fromColumn": 3,
+        "toColumn": 52
       }
     ],
     "interaction": {
@@ -135,9 +178,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 23
         },
         {
           "content": [
@@ -145,12 +192,20 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 26
         }
       ]
-    }
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice"
+    ],
+    "warnings": []
   },
   1,
   {
@@ -163,12 +218,20 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected B."
+        "verbatim": "You selected B.",
+        "plainText": "You selected B.",
+        "fromColumn": 3,
+        "toColumn": 17
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 28
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice"
+    ],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -180,7 +243,10 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is the second choice which will be remembered."
+        "verbatim": "This is the second choice which will be remembered.",
+        "plainText": "This is the second choice which will be remembered.",
+        "fromColumn": 3,
+        "toColumn": 53
       }
     ],
     "interaction": {
@@ -192,9 +258,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 32
         },
         {
           "content": [
@@ -202,12 +272,20 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 36
         }
       ]
-    }
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice"
+    ],
+    "warnings": []
   },
   0,
   {
@@ -220,12 +298,21 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A."
+        "verbatim": "You selected A.",
+        "plainText": "You selected A.",
+        "fromColumn": 3,
+        "toColumn": 17
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 35
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice",
+      "selected-a-in-second-remembered-choice"
+    ],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -237,12 +324,21 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "You selected A both times in the remembered choices."
+        "verbatim": "You selected A both times in the remembered choices.",
+        "plainText": "You selected A both times in the remembered choices.",
+        "fromColumn": 3,
+        "toColumn": 54
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 46
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice",
+      "selected-a-in-second-remembered-choice"
+    ],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -254,7 +350,10 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is the first choice which will be forgotten."
+        "verbatim": "This is the first choice which will be forgotten.",
+        "plainText": "This is the first choice which will be forgotten.",
+        "fromColumn": 3,
+        "toColumn": 51
       }
     ],
     "interaction": {
@@ -266,9 +365,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 4
         },
         {
           "content": [
@@ -276,11 +379,20 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 7
         }
       ]
-    }
+    },
+    "flagsSet": [
+      "selected-a-in-first-remembered-choice",
+      "selected-a-in-second-remembered-choice"
+    ],
+    "warnings": []
   }
 ]

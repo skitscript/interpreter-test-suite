@@ -14,12 +14,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "This is a menu option from the start"
+              "verbatim": "This is a menu option from the start",
+              "plainText": "This is a menu option from the start",
+              "fromColumn": 3,
+              "toColumn": 38
             }
-          ]
+          ],
+          "instructionIndex": 1
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -32,12 +38,18 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is a line from the end."
+        "verbatim": "This is a line from the end.",
+        "plainText": "This is a line from the end.",
+        "fromColumn": 3,
+        "toColumn": 30
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 0
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -54,12 +66,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "This is a menu option from the start"
+              "verbatim": "This is a menu option from the start",
+              "plainText": "This is a menu option from the start",
+              "fromColumn": 3,
+              "toColumn": 38
             }
-          ]
+          ],
+          "instructionIndex": 1
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -72,11 +90,17 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is a line from the end."
+        "verbatim": "This is a line from the end.",
+        "plainText": "This is a line from the end.",
+        "fromColumn": 3,
+        "toColumn": 30
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 0
+    },
+    "flagsSet": [],
+    "warnings": []
   }
 ]

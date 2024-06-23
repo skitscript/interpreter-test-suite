@@ -1,0 +1,54 @@
+[
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "normalized": "example-character",
+        "verbatim": "Example Character",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "from-right"
+        }
+      }
+    ],
+    "speakers": [
+      "example-character"
+    ],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "verbatim": "Line before loop.",
+        "plainText": "Line before loop.",
+        "fromColumn": 3,
+        "toColumn": 19
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 0
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "presentCharacterEntered",
+        "line": 2,
+        "character": {
+          "verbatim": "Example Character",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        },
+        "animation": {
+          "verbatim": "from right",
+          "normalized": "from-right",
+          "fromColumn": 26,
+          "toColumn": 35
+        }
+      }
+    ]
+  }
+]

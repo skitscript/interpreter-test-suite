@@ -124,48 +124,89 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is "
+        "verbatim": "This is *",
+        "plainText": "This is ",
+        "fromColumn": 3,
+        "toColumn": 11
       },
       {
         "bold": false,
         "italic": true,
         "code": false,
-        "plainText": "an"
+        "verbatim": "an*",
+        "plainText": "an",
+        "fromColumn": 12,
+        "toColumn": 14
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": " example "
+        "verbatim": " example **",
+        "plainText": " example ",
+        "fromColumn": 15,
+        "toColumn": 25
       },
       {
         "bold": true,
         "italic": false,
         "code": false,
-        "plainText": "line"
+        "verbatim": "line**",
+        "plainText": "line",
+        "fromColumn": 26,
+        "toColumn": 31
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": " with "
+        "verbatim": " with `",
+        "plainText": " with ",
+        "fromColumn": 32,
+        "toColumn": 38
       },
       {
         "bold": false,
         "italic": false,
         "code": true,
-        "plainText": "some formatting"
+        "verbatim": "some formatting`",
+        "plainText": "some formatting",
+        "fromColumn": 39,
+        "toColumn": 54
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "."
+        "verbatim": ".",
+        "plainText": ".",
+        "fromColumn": 55,
+        "toColumn": 55
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 12
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "nonPresentCharacterExited",
+        "line": 3,
+        "character": {
+          "verbatim": "Exiting character",
+          "normalized": "exiting-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        },
+        "animation": {
+          "verbatim": "with exiting animation",
+          "normalized": "with-exiting-animation",
+          "fromColumn": 25,
+          "toColumn": 46
+        }
+      }
+    ]
   },
   {
     "type": "valid",
@@ -287,18 +328,44 @@
         "bold": true,
         "italic": true,
         "code": true,
-        "plainText": "Formatting combination test"
+        "verbatim": "***`Formatting combination test`***",
+        "plainText": "Formatting combination test",
+        "fromColumn": 3,
+        "toColumn": 37
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "."
+        "verbatim": ".",
+        "plainText": ".",
+        "fromColumn": 38,
+        "toColumn": 38
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 19
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "presentCharacterEntered",
+        "line": 21,
+        "character": {
+          "verbatim": "Animated after entering A",
+          "normalized": "animated-after-entering-a",
+          "fromColumn": 1,
+          "toColumn": 25
+        },
+        "animation": {
+          "verbatim": "with a hidden animation",
+          "normalized": "with-a-hidden-animation",
+          "fromColumn": 34,
+          "toColumn": 56
+        }
+      }
+    ]
   },
   {
     "type": "valid",
@@ -420,12 +487,35 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "Can still give a line while exiting."
+        "verbatim": "Can still give a line while exiting.",
+        "plainText": "Can still give a line while exiting.",
+        "fromColumn": 3,
+        "toColumn": 38
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 28
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "nonPresentCharacterExited",
+        "line": 28,
+        "character": {
+          "verbatim": "Animated after exiting B",
+          "normalized": "animated-after-exiting-b",
+          "fromColumn": 1,
+          "toColumn": 24
+        },
+        "animation": {
+          "verbatim": "with a hidden animation",
+          "normalized": "with-a-hidden-animation",
+          "fromColumn": 32,
+          "toColumn": 54
+        }
+      }
+    ]
   },
   {
     "type": "valid",
@@ -545,12 +635,18 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "Is then gone."
+        "verbatim": "Is then gone.",
+        "plainText": "Is then gone.",
+        "fromColumn": 3,
+        "toColumn": 15
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 32
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   {
     "type": "valid",
@@ -675,47 +771,136 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This is "
+        "verbatim": "This is *",
+        "plainText": "This is ",
+        "fromColumn": 3,
+        "toColumn": 11
       },
       {
         "bold": false,
         "italic": true,
         "code": false,
-        "plainText": "an"
+        "verbatim": "an*",
+        "plainText": "an",
+        "fromColumn": 12,
+        "toColumn": 14
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": " example "
+        "verbatim": " example **",
+        "plainText": " example ",
+        "fromColumn": 15,
+        "toColumn": 25
       },
       {
         "bold": true,
         "italic": false,
         "code": false,
-        "plainText": "line"
+        "verbatim": "line**",
+        "plainText": "line",
+        "fromColumn": 26,
+        "toColumn": 31
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": " with "
+        "verbatim": " with `",
+        "plainText": " with ",
+        "fromColumn": 32,
+        "toColumn": 38
       },
       {
         "bold": false,
         "italic": false,
         "code": true,
-        "plainText": "some formatting"
+        "verbatim": "some formatting`",
+        "plainText": "some formatting",
+        "fromColumn": 39,
+        "toColumn": 54
       },
       {
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "."
+        "verbatim": ".",
+        "plainText": ".",
+        "fromColumn": 55,
+        "toColumn": 55
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 12
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "presentCharacterEntered",
+        "line": 1,
+        "character": {
+          "verbatim": "Entering character",
+          "normalized": "entering-character",
+          "fromColumn": 1,
+          "toColumn": 18
+        },
+        "animation": {
+          "verbatim": "with entering animation",
+          "normalized": "with-entering-animation",
+          "fromColumn": 27,
+          "toColumn": 49
+        }
+      },
+      {
+        "type": "nonPresentCharacterExited",
+        "line": 3,
+        "character": {
+          "verbatim": "Exiting character",
+          "normalized": "exiting-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        },
+        "animation": {
+          "verbatim": "with exiting animation",
+          "normalized": "with-exiting-animation",
+          "fromColumn": 25,
+          "toColumn": 46
+        }
+      },
+      {
+        "type": "presentCharacterEntered",
+        "line": 5,
+        "character": {
+          "verbatim": "Animated after exiting A",
+          "normalized": "animated-after-exiting-a",
+          "fromColumn": 1,
+          "toColumn": 24
+        },
+        "animation": {
+          "verbatim": "with an animation",
+          "normalized": "with-an-animation",
+          "fromColumn": 33,
+          "toColumn": 49
+        }
+      },
+      {
+        "type": "presentCharacterEntered",
+        "line": 7,
+        "character": {
+          "verbatim": "Animated after entering A",
+          "normalized": "animated-after-entering-a",
+          "fromColumn": 1,
+          "toColumn": 25
+        },
+        "animation": {
+          "verbatim": "with an animation",
+          "normalized": "with-an-animation",
+          "fromColumn": 34,
+          "toColumn": 50
+        }
+      }
+    ]
   }
 ]

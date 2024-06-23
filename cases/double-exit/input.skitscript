@@ -1,0 +1,10 @@
+Example Character enters from left.
+
+Example Character:
+  This line establishes that the character is present.
+
+Example Character exits via right.
+Example Character exits via front.
+
+Example Character:
+  This line generates the warning.

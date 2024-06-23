@@ -1,0 +1,89 @@
+[
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "normalized": "example-character",
+        "verbatim": "Example Character",
+        "emote": "neutral",
+        "state": {
+          "type": "entering",
+          "animation": "from-left"
+        }
+      }
+    ],
+    "speakers": [
+      "example-character"
+    ],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "verbatim": "This line establishes that the character is present.",
+        "plainText": "This line establishes that the character is present.",
+        "fromColumn": 3,
+        "toColumn": 54
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 3
+    },
+    "flagsSet": [],
+    "warnings": []
+  },
+  {
+    "type": "valid",
+    "characters": [
+      {
+        "normalized": "example-character",
+        "verbatim": "Example Character",
+        "emote": "neutral",
+        "state": {
+          "type": "exiting",
+          "animation": "via-front"
+        }
+      }
+    ],
+    "speakers": [
+      "example-character"
+    ],
+    "background": null,
+    "line": [
+      {
+        "bold": false,
+        "italic": false,
+        "code": false,
+        "verbatim": "This line generates the warning.",
+        "plainText": "This line generates the warning.",
+        "fromColumn": 3,
+        "toColumn": 34
+      }
+    ],
+    "interaction": {
+      "type": "dismiss",
+      "instructionIndex": 0
+    },
+    "flagsSet": [],
+    "warnings": [
+      {
+        "type": "nonPresentCharacterExited",
+        "line": 7,
+        "character": {
+          "verbatim": "Example Character",
+          "normalized": "example-character",
+          "fromColumn": 1,
+          "toColumn": 17
+        },
+        "animation": {
+          "verbatim": "via front",
+          "normalized": "via-front",
+          "fromColumn": 25,
+          "toColumn": 33
+        }
+      }
+    ]
+  }
+]

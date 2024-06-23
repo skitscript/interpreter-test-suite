@@ -14,9 +14,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "F"
+              "verbatim": "F",
+              "plainText": "F",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 30
         },
         {
           "content": [
@@ -24,9 +28,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "G"
+              "verbatim": "G",
+              "plainText": "G",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 30
         },
         {
           "content": [
@@ -34,9 +42,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "H"
+              "verbatim": "H",
+              "plainText": "H",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 30
         },
         {
           "content": [
@@ -44,9 +56,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "I"
+              "verbatim": "I",
+              "plainText": "I",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 30
         },
         {
           "content": [
@@ -54,12 +70,18 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "J"
+              "verbatim": "J",
+              "plainText": "J",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 30
         }
       ]
-    }
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   0,
   {
@@ -77,9 +99,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 62
         },
         {
           "content": [
@@ -87,9 +113,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "D"
+              "verbatim": "D",
+              "plainText": "D",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 62
         },
         {
           "content": [
@@ -97,9 +127,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "F"
+              "verbatim": "F",
+              "plainText": "F",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 62
         },
         {
           "content": [
@@ -107,9 +141,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "H"
+              "verbatim": "H",
+              "plainText": "H",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 62
         },
         {
           "content": [
@@ -117,12 +155,20 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "J"
+              "verbatim": "J",
+              "plainText": "J",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 62
         }
       ]
-    }
+    },
+    "flagsSet": [
+      "b"
+    ],
+    "warnings": []
   },
   4,
   {
@@ -140,9 +186,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "A"
+              "verbatim": "A",
+              "plainText": "A",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 95
         },
         {
           "content": [
@@ -150,9 +200,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "B"
+              "verbatim": "B",
+              "plainText": "B",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 95
         },
         {
           "content": [
@@ -160,9 +214,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "C"
+              "verbatim": "C",
+              "plainText": "C",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 95
         },
         {
           "content": [
@@ -170,9 +228,13 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "D"
+              "verbatim": "D",
+              "plainText": "D",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 95
         },
         {
           "content": [
@@ -180,11 +242,21 @@
               "bold": false,
               "italic": false,
               "code": false,
-              "plainText": "E"
+              "verbatim": "E",
+              "plainText": "E",
+              "fromColumn": 3,
+              "toColumn": 3
             }
-          ]
+          ],
+          "instructionIndex": 95
         }
       ]
-    }
+    },
+    "flagsSet": [
+      "b",
+      "a",
+      "c"
+    ],
+    "warnings": []
   }
 ]

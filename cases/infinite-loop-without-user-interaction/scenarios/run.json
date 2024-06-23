@@ -9,12 +9,18 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This line precedes the infinite loop."
+        "verbatim": "This line precedes the infinite loop.",
+        "plainText": "This line precedes the infinite loop.",
+        "fromColumn": 3,
+        "toColumn": 39
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 1
+    },
+    "flagsSet": [],
+    "warnings": []
   },
   {
     "type": "invalid",

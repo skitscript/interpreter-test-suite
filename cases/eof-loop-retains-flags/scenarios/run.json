@@ -9,11 +9,19 @@
         "bold": false,
         "italic": false,
         "code": false,
-        "plainText": "This text is shown as the document loops with the flag set."
+        "verbatim": "This text is shown as the document loops with the flag set.",
+        "plainText": "This text is shown as the document loops with the flag set.",
+        "fromColumn": 3,
+        "toColumn": 61
       }
     ],
     "interaction": {
-      "type": "dismiss"
-    }
+      "type": "dismiss",
+      "instructionIndex": 2
+    },
+    "flagsSet": [
+      "a"
+    ],
+    "warnings": []
   }
 ]
